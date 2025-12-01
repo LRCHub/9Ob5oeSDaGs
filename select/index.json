@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "南無阿弥陀仏",
+  "base_artist": "唾奇",
+  "createdAt": "2025-12-01T14:31:29.033130Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "南無阿弥陀仏のリズムに乗って",
+      "artist": "Wienners",
+      "has_synced": false,
+      "path": "select/pl_01_南無阿弥陀仏のリズムに乗って_Wienners.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "南無阿弥陀仏",
+      "artist": "Wienners",
+      "has_synced": false,
+      "path": "select/pl_02_南無阿弥陀仏_Wienners.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "南無阿弥陀仏のリズムに乗って",
+      "artist": "Wienners",
+      "has_synced": false,
+      "path": "select/pl_03_南無阿弥陀仏のリズムに乗って_Wienners.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "南無阿弥陀仏",
+      "artist": "Wienners",
+      "has_synced": false,
+      "path": "select/pl_04_南無阿弥陀仏_Wienners.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "南無阿弥陀仏",
+      "artist": "Wienners",
+      "has_synced": false,
+      "path": "select/pl_05_南無阿弥陀仏_Wienners.txt"
+    }
+  ]
+}
